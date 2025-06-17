@@ -1,3 +1,3 @@
-# CommunicationScript
-Ò»¸öÍ¨Ñ¶ÀàµÄ½Å±¾¹¤¾ß
+ï»¿# CommunicationScript
+ä¸€ä¸ªé€šè®¯ç±»çš„è„šæœ¬å·¥å…·
 > by hdp 2025.06.15
